@@ -12,6 +12,9 @@ license: MIT
 repository-code: "https://github.com/HanHanWorks/score-not-forecast"
 doi: "10.5281/zenodo.23836591"
 version: "1.0.2"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23836803"
 date-released: "2026-10-31"
 
 authors:
