@@ -1,10 +1,8 @@
-#Code and data release for the manuscript "When a compliance score rewards the
-wrong adjustment: auditing grid-code forecast assessment in China's wind sector".
+# When a compliance score rewards the wrong adjustment: auditing grid-code forecast assessment in China's wind sector.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23836591.svg)](https://doi.org/10.5281/zenodo.23836591)
 
-Code and data release for the manuscript *"Optimising the metric, not the
-forecast: how an automated loop exploits a grid-code accuracy score"*.
+Code and data release for the manuscript *"When a compliance score rewards the wrong adjustment: auditing grid-code forecast assessment in China's wind sector."*.
 
 Three years of an automated post-processing loop on a provincial Chinese wind
 fleet — 106 runs, 5,360 iterations, 1,202 accepted code edits. The loop raised
