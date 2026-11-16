@@ -1,4 +1,5 @@
-# Optimising the metric, not the forecast
+#Code and data release for the manuscript "When a compliance score rewards the
+wrong adjustment: auditing grid-code forecast assessment in China's wind sector".
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23836591.svg)](https://doi.org/10.5281/zenodo.23836591)
 
